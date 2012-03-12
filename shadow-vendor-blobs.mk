@@ -30,13 +30,11 @@ PRODUCT_COPY_FILES := \
 
 PRODUCT_COPY_FILES += \
     vendor/motorola/shadow/proprietary/app/ExtDispService.apk:/system/app/ExtDispService.apk \
-    vendor/motorola/shadow/proprietary/app/FileManager.apk:/system/app/FileManager.apk \
     vendor/motorola/shadow/proprietary/app/FMRadio.apk:/system/app/FMRadio.apk \
     vendor/motorola/shadow/proprietary/app/FMRadioService.apk:/system/app/FMRadioService.apk \
     vendor/motorola/shadow/proprietary/app/PhoneConfig.apk:/system/app/PhoneConfig.apk \
     vendor/motorola/shadow/proprietary/app/ProgramMenu.apk:/system/app/ProgramMenu.apk \
     vendor/motorola/shadow/proprietary/app/ProgramMenuSystem.apk:/system/app/ProgramMenuSystem.apk \
-    vendor/motorola/shadow/proprietary/app/Torch.apk:/system/app/Torch.apk \
     vendor/motorola/shadow/proprietary/app/Usb.apk:/system/app/Usb.apk 
 
 # All the blobs necessary for shadow
