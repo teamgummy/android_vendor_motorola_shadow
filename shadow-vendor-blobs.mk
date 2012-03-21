@@ -72,6 +72,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/shadow/proprietary/bin/testpppd:/system/bin/testpppd \
     vendor/motorola/shadow/proprietary/bin/tstmetainfo:/system/bin/tstmetainfo \
     vendor/motorola/shadow/proprietary/bin/usbd:/system/bin/usbd \
+    vendor/motorola/shadow/proprietary/etc/amazon-kindle.properties:/system/etc/amazon-kindle.properties \
     vendor/motorola/shadow/proprietary/etc/backup_targets.csv:/system/etc/backup_targets.csv \
     vendor/motorola/shadow/proprietary/etc/cameraCalFileDef5M.bin:/system/etc/cameraCalFileDef5M.bin \
     vendor/motorola/shadow/proprietary/etc/cameraCalFileDef8M.bin:/system/etc/cameraCalFileDef8M.bin \
